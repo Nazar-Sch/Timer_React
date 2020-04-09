@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Timer_React/static/css/main.ee07ce7f.chunk.css",
+    "main.js": "/Timer_React/static/js/main.d8c97515.chunk.js",
+    "main.js.map": "/Timer_React/static/js/main.d8c97515.chunk.js.map",
+    "runtime-main.js": "/Timer_React/static/js/runtime-main.883dc202.js",
+    "runtime-main.js.map": "/Timer_React/static/js/runtime-main.883dc202.js.map",
+    "static/js/2.7ad55116.chunk.js": "/Timer_React/static/js/2.7ad55116.chunk.js",
+    "static/js/2.7ad55116.chunk.js.map": "/Timer_React/static/js/2.7ad55116.chunk.js.map",
+    "index.html": "/Timer_React/index.html",
+    "precache-manifest.7053bdc09160aa632b6bdfc156b7c4b6.js": "/Timer_React/precache-manifest.7053bdc09160aa632b6bdfc156b7c4b6.js",
+    "service-worker.js": "/Timer_React/service-worker.js",
+    "static/css/main.ee07ce7f.chunk.css.map": "/Timer_React/static/css/main.ee07ce7f.chunk.css.map",
+    "static/js/2.7ad55116.chunk.js.LICENSE.txt": "/Timer_React/static/js/2.7ad55116.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.883dc202.js",
+    "static/js/2.7ad55116.chunk.js",
+    "static/css/main.ee07ce7f.chunk.css",
+    "static/js/main.d8c97515.chunk.js"
+  ]
+}
