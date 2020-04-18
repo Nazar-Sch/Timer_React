@@ -1,10 +1,12 @@
 import React, { useState, useEffect} from 'react';
-import './style.scss';
 import moment from 'moment';
 
+import '../../assets/style/style.scss';
+import './style.scss';
+
 const Timer = ({ time, autostart, step, onTick, onTimeStart, onTimePaused}) => {
-    let [count, setCount] = useState(time);
-    let [isActive, setIsActive] = useState(false);
+    const [count, setCount] = useState(time);
+    const [isActive, setIsActive] = useState(false);
     
     function changeActive() {
         setIsActive(!isActive);

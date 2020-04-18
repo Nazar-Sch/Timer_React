@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=VT323&display=swap');
+$screenColor: #003D02;
+body {
+    font-family: 'VT323', monospace;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background: radial-gradient(ellipse at center, #000 50%, $screenColor 100%);
+    border-radius: 20px;
+    box-shadow: inset 0px 0px 15px 15px #000;
+    background-size: 100% 5px;
+    background-repeat: repeat-y;
+}
+
+.screen {
+    margin-top: 100px;
+}
+
